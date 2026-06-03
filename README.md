@@ -2,7 +2,7 @@
 ](https://github.com/d28006/Financial-Risk-Analytics/blob/main/Snapshot%20of%20Dashboard.PNG)
 1. Project Title / Headline
 
-💳 Credit Card Fraud Risk Analysis Dashboard: Transaction Insights by Fraud Type, Risk Level, and Geography
+ Credit Card Fraud Risk Analysis Dashboard: Transaction Insights by Fraud Type, Risk Level, and Geography
 An interactive Power BI dashboard designed to track fraudulent credit card transactions, fraud patterns, and risk severity across multiple dimensions (fraud type, state, category, and month). It empowers financial institutions and fraud analysts to detect emerging fraud trends, assess transaction risks, and strengthen fraud prevention strategies.
 
 2. Short Description / Purpose
@@ -13,19 +13,19 @@ The Credit Card Fraud Risk Analysis Dashboard provides a comprehensive view of f
 
 The dashboard was built using the following tools and technologies:
 
-📊 Power BI Desktop – Main platform for building and visualizing fraud analysis reports
+ Power BI Desktop – Main platform for building and visualizing fraud analysis reports
 
-🔄 Power Query (M) – For extracting, cleaning, and transforming transaction datasets
+ Power Query (M) – For extracting, cleaning, and transforming transaction datasets
 
-🧠 DAX (Data Analysis Expressions) – For fraud rate calculations, aggregation of transaction amounts, and risk segmentation measures
+ DAX (Data Analysis Expressions) – For fraud rate calculations, aggregation of transaction amounts, and risk segmentation measures
 
-🧩 Data Modeling – Structured relationships between fraud transactions, merchant categories, geographies, and time dimensions
+ Data Modeling – Structured relationships between fraud transactions, merchant categories, geographies, and time dimensions
 
-🗄 SQL Server / Database – Source of transaction-level data prior to ingestion in Power BI
+ SQL Server / Database – Source of transaction-level data prior to ingestion in Power BI
 
-💻 SQL (SELECT, GROUP BY, JOIN) – Used to query, aggregate, and segment transaction-level fraud records
+ SQL (SELECT, GROUP BY, JOIN) – Used to query, aggregate, and segment transaction-level fraud records
 
-📁 File Format – .pbix (Power BI project) with exported visuals for reporting
+ File Format – .pbix (Power BI project) with exported visuals for reporting
 
 4. Data Source
 
@@ -77,12 +77,12 @@ Fraudulent Transactions by Month (Line Chart) – Highlights monthly fluctuation
 
 7. Business Impact & Insights
 
-🔎 Top Fraud Type – “Card Not Present” fraud dominates, requiring stronger digital authentication and verification measures.
+ Top Fraud Type – “Card Not Present” fraud dominates, requiring stronger digital authentication and verification measures.
 
-📍 Geographic Hotspots – Maharashtra and Karnataka show highest fraud volumes, indicating priority zones for fraud monitoring.
+ Geographic Hotspots – Maharashtra and Karnataka show highest fraud volumes, indicating priority zones for fraud monitoring.
 
-📊 Risk Distribution – While 42.4% of fraud is low risk, the 10.8% critical-risk transactions represent severe financial exposure.
+ Risk Distribution – While 42.4% of fraud is low risk, the 10.8% critical-risk transactions represent severe financial exposure.
 
-📈 Seasonal Trends – Fraud peaks in December, suggesting higher fraud risk during holiday shopping seasons.
+ Seasonal Trends – Fraud peaks in December, suggesting higher fraud risk during holiday shopping seasons.
 
-💳 Actionable Outcome – Enables banks to tailor fraud-prevention strategies by fraud type, merchant category, and location to minimize losses and protect customers.)
+ Actionable Outcome – Enables banks to tailor fraud-prevention strategies by fraud type, merchant category, and location to minimize losses and protect customers.)
